@@ -17,7 +17,7 @@ School summary df: https://github.com/ChrisBarton107/School_District_Analysis/bl
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 Replacing 9th grade math and reading proficiency scores improved Thomas High School's performance relative to other schools and saw their standing elevate to second overall amongst charter schools and second overall among the 15 schools in the district. 
 ### How does replacing the ninth-grade scores affect the following:
-Applying the NaN value to all math and reading proficiency scores for 9th graders at Thomas High School impacted the analysis in the following ways
+Applying the NaN value to all math and reading proficiency scores for 9th graders at Thomas High School impacted the analysis in the following ways:
 - Math and reading scores by grade
   - Math and reading scores for 9th graders at Thomas High School were replaced with the value of NaN while scores for 10th-12th graders at Thomas High School remained the same. Other schools in the district analysis were not greatly impacted by the new data.
 - Scores by school spending
