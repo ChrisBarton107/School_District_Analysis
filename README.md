@@ -4,7 +4,10 @@ The purpose of this analysis was to analyze proficiency testing and financial da
 ## Results
 ### How is the district summary affected?
 The original district data included 39,170 students from 15 schools within a district. Because of suspicions of academic dishonesty, all 9th grade math and reading scores from Thomas High School were replaced with a NaN value, reducing the number of students in the data set to 38,709.<br>
-District summary df: https://github.com/ChrisBarton107/School_District_Analysis/blob/main/Resources/District_Summary.png
+
+**District Summary Dataframe**<br> 
+<img src= "https://github.com/ChrisBarton107/School_District_Analysis/blob/main/Resources/District_Summary.png" width="1000"><br>
+
 ### How is the school summary affected?
 The school summary data was altered considerably in regards to Thomas High School data. This new data included:
 - Student count included Thomas High School 10-12 graders
@@ -13,7 +16,10 @@ The school summary data was altered considerably in regards to Thomas High Schoo
 - % Passing Math: Increased from  66.91% to 93.18%
 - % Passing Reading: Increased from 69.66% to 97.01%
 - % Overall Passing: Increased from 65.07% to 90.60%<br>
-School summary df: https://github.com/ChrisBarton107/School_District_Analysis/blob/main/Resources/Per_School_Summary_2.png
+
+**School Summary Dataframe**<br> 
+<img src= "https://github.com/ChrisBarton107/School_District_Analysis/blob/main/Resources/Per_School_Summary_2.png" width="1000"><br>
+
 ### Thomas High School performance 
 Replacing 9th grade math and reading proficiency scores improved Thomas High School's performance relative to other schools and saw their standing elevate to second overall amongst charter schools and second overall among the 15 schools in the district. 
 ### Impact of replaced scores
